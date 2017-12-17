@@ -1,8 +1,8 @@
 # encoding: utf-8
 
-# Œ áá¨¢ë á ­ ¡®à ¬¨ ¬ áâ¥© ¨ ¤®áâ®¨­áâ¢
+# Массивы с наборами мастей и достоинств
 values = ['2','3','4','5','6','7','8','9','10','J','Q','K','A']
-suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades'] # ã¡¨, —¥à¢¨, Šà¥áâ¨, ¨ª¨
+suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades'] # Буби, Черви, Крести, Пики
 
 puts "#{values.sample} of #{suits.sample}"
 
